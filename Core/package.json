@@ -1,0 +1,7 @@
+{
+    "name": "com.ilariooo.test",
+    "version": "0.0.1",
+    "displayName": "Ilario Test",
+    "description": "Unity description for a test package",
+    "unity": "2020.3"
+}
