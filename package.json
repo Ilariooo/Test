@@ -8,6 +8,15 @@
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
 
+    "gameService": {
+      "groupIndex": 4,
+      "groupName": "Monetize",
+      "configurePath": "Project/Services/In-App Purchasing",
+      "genericDashboardUrl": "https://dashboard.unity3d.com/",
+      "projectDashboardUrl": "https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/v2/dashboards/revenue",
+      "projectDashboardUrlType": "OrganizationKeyAndProjectGuid"
+    },
+
     "samples":
     [
         {
