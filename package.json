@@ -11,9 +11,9 @@
     "samples":
     [
         {
-            "displayName": "Markup Attributes Samples",
-            "description": "An array of samples to demonstrate the package functionality.",
-            "path": "Samples~/MarkupAttributesSamples"
+            "displayName": "Test1",
+            "description": "Test1 sample right here",
+            "path": "Samples~/Test1"
         }
     ],
 
