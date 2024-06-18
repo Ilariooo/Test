@@ -12,12 +12,8 @@
     {
         "gameService":
         {
-            "groupIndex": 1,
-            "groupName": "Ted",
             "configurePath": "Project/Services/In-App Purchasing",
-            "genericDashboardUrl": "https://dashboard.unity3d.com/",
-            "projectDashboardUrl": "https://dashboard.unity3d.com/organizations/{0}/projects/{1}/analytics/v2/dashboards/revenue",
-            "projectDashboardUrlType": "OrganizationKeyAndProjectGuid"
+            "genericDashboardUrl": "https://dashboard.unity3d.com/"
         },
 
         "supportedPlatforms":
