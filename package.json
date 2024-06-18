@@ -15,7 +15,7 @@
             "Unity editor"
         ],
 
-        "changelog": "|### First line\n|This is the first line description\n|\n|### Second line\n|Second line desc"
+        "changelog": "|   ### First line\n|   This is the first line description\n|   \n|   ### Second line\n|   Second line desc"
     },
 
     "samples":
