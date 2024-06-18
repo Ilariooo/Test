@@ -10,18 +10,12 @@
 
     "_upm":
     {
-        "gameService":
-        {
-            "configurePath": "Project/Services/In-App Purchasing",
-            "genericDashboardUrl": "https://dashboard.unity3d.com/"
-        },
-
         "supportedPlatforms":
         [
             "Unity editor"
         ],
 
-        "changelog": "### First line\nThis is the first line description\n\n### Second line\nSecond line desc"
+        "changelog": "|### First line\n|This is the first line description\n|\n|### Second line\n|Second line desc"
     },
 
     "samples":
